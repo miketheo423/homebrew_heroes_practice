@@ -1,0 +1,1 @@
+let sequalize = new Sequalize(process.env.DATABASE_URL || 'postgres://michaeltheodorou@localhost:5432/homebrew-heroes-practice');
